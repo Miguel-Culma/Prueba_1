@@ -1,0 +1,10 @@
+comandos git
+
+ls --- ver carpetasde
+cd --se llega al inicio directo 
+cd --.. se devuelve uno por uno
+touch -- me crea archivos
+rm -- borra archivos
+mkadir (nombre de la carpeta) -- crea carpetas
+git init -- sirve para seguir una carpeta o inicializar el repositorio
+ls -a para asegurarse que el repositorio esta conectado a la carpeta

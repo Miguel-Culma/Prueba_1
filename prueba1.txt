@@ -7,6 +7,6 @@ touch -- me crea archivos
 rm -- borra archivos
 mkadir (nombre de la carpeta) -- crea carpetas
 git init -- sirve para seguir una carpeta o inicializar el repositorio
-ls -a para asegurarse que el repositorio esta conectado a la carpeta
+ls -a para asegurarse que el repositorio esta conectado a la car
 
-daniel es el mejor:)
+Miguel es el mejor ;)

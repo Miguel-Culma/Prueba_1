@@ -8,3 +8,5 @@ rm -- borra archivos
 mkadir (nombre de la carpeta) -- crea carpetas
 git init -- sirve para seguir una carpeta o inicializar el repositorio
 ls -a para asegurarse que el repositorio esta conectado a la carpeta
+
+daniel es el mejor:)

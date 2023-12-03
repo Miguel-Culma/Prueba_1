@@ -9,5 +9,5 @@ mkadir (nombre de la carpeta) -- crea carpetas
 git init -- sirve para seguir una carpeta o inicializar el repositorio
 ls -a para asegurarse que el repositorio esta conectado a la car
 
-Miguel no es gay
-Daniel es puta
+Miguel es super gay
+Hablando de madres: ¿es verdad que la tuya es tan gorda que tiene su propio código postal?

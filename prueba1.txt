@@ -10,3 +10,4 @@ git init -- sirve para seguir una carpeta o inicializar el repositorio
 ls -a para asegurarse que el repositorio esta conectado a la car
 
 Miguel no es gay
+Daniel es puta
